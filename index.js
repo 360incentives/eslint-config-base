@@ -46,7 +46,8 @@ module.exports = {
     "space-after-keywords": 2,
     "space-before-blocks": 2,
     "space-before-function-paren": [ 2, { "anonymous": "always", "named": "never" } ],
-    "no-bitwise": 2
+    "no-bitwise": 2,
+    "yoda": 0
   },
   "env": {
     "node": true

@@ -10,7 +10,7 @@ module.exports = {
 
     "block-scoped-var": 2,
     "curly": [ 2, "all" ],
-    "no-multi-spaces": [ 2, { "exceptions": { "VariableDeclarator": true } } ],
+    "no-multi-spaces": [ 2, { "exceptions": { "VariableDeclarator": true, "ArrayExpression": true } } ],
     "dot-location": [ 2, "property" ],
     "guard-for-in": 2,
     "no-else-return": 2,

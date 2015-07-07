@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-base",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/360incentives/eslint-config-base.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/360incentives/eslint-config-base/issues"
+  },
+  "homepage": "https://github.com/360incentives/eslint-config-base#readme",
+  "version": "1.0.0",
+  "description": "Base eslint configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "eslintConfig": { "env": { "node": true } },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^0.24.0"
+  }
+}

@@ -7,7 +7,7 @@ The baseline configuration for linting JavaScript files using [eslint](http://es
 Install this module as a `devDependency` and reference it from your eslint configuration. Here's one way to install the module and reference it from a repo-local eslint YAML file:
 
 ```
-npm install --save-dev https://github.com/360incentives/eslint-config-base
+npm i 360incentives/eslint-config-base -D
 echo 'extends: base' > .eslintrc
 ```
 

@@ -19,3 +19,7 @@ env:
   mocha: true
 ' > ./test/.eslintrc
 ```
+
+## Additional linting configurations
+
+For linting React JSX files see the [360incentives/eslint-config-react](https://github.com/360incentives/eslint-config-react) module

@@ -5,6 +5,7 @@ module.exports = {
 
     "comma-dangle": [ 2, "never" ],
     "no-cond-assign": [ 2, "except-parens" ],
+    "no-dupe-keys": 2,
 
     /// best practices (http://eslint.org/docs/rules/#best-practices)
 

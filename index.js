@@ -1,4 +1,5 @@
 module.exports = {
+  "extends": [ "eslint:recommended" ],
   "rules": {
 
     //// possible errors (http://eslint.org/docs/rules/#possible-errors)

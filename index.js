@@ -41,6 +41,7 @@ module.exports = {
     "comma-style": [ 2, "last" ],
     "indent": [ 2, 2 ],
     "linebreak-style": [ 2, "unix" ],
+    "no-extra-semi": 2,
     "no-lonely-if": 2,
     "object-curly-spacing": [ 2, "always" ], // may be high-impact - consider changing
     "quotes": [ 2, "single", "avoid-escape" ],

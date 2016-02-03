@@ -19,6 +19,7 @@ module.exports = {
     "no-self-compare": 2,
     "no-sequences": 2,
     "no-throw-literal": 2,
+    "no-unused-vars": [2, {"vars": "all", "args": "after-used"}],
     "no-warning-comments": [ 1, { "terms": [ "todo", "fixme" ] } ],
     "radix": 2,
 

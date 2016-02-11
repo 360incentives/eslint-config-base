@@ -41,7 +41,7 @@ module.exports = {
 
     "brace-style": [ 2, "1tbs", { "allowSingleLine": true } ],
     "comma-style": [ 2, "last" ],
-    "indent": [ 2, 2 ],
+    "indent": [ 2, 2, { "SwitchCase": 1 } ],
     "linebreak-style": [ 2, "unix" ],
     "no-lonely-if": 2,
     "object-curly-spacing": [ 2, "always" ], // may be high-impact - consider changing

@@ -9,7 +9,7 @@
     "url": "https://github.com/360incentives/eslint-config-base/issues"
   },
   "homepage": "https://github.com/360incentives/eslint-config-base#readme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base eslint configuration.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^0.24.0"
+    "eslint": "^2.1.0"
   }
 }

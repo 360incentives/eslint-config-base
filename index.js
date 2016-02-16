@@ -47,7 +47,7 @@ module.exports = {
     "object-curly-spacing": [ 2, "always" ], // may be high-impact - consider changing
     "quotes": [ 2, "single", "avoid-escape" ],
     "semi": [ 2, "always" ],
-    "space-after-keywords": 2,
+    "keyword-spacing": 2,
     "space-before-blocks": 2,
     "space-before-function-paren": [ 2, { "anonymous": "always", "named": "never" } ],
     "no-bitwise": 2,

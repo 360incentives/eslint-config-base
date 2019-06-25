@@ -9,7 +9,7 @@
     "url": "https://github.com/360incentives/eslint-config-base/issues"
   },
   "homepage": "https://github.com/360incentives/eslint-config-base#readme",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Base eslint configuration.",
   "main": "index.js",
   "scripts": {

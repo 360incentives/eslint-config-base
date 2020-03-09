@@ -2,14 +2,14 @@
   "name": "eslint-config-base",
   "repository": {
     "type": "git",
-    "url": "github:360incentives/eslint-config-base.git"
+    "url": "git+ssh://git@github.com/360incentives/eslint-config-base.git"
   },
   "author": "",
   "bugs": {
     "url": "https://github.com/360incentives/eslint-config-base/issues"
   },
   "homepage": "https://github.com/360incentives/eslint-config-base#readme",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Base eslint configuration.",
   "main": "index.js",
   "scripts": {

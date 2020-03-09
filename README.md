@@ -1,5 +1,7 @@
 # JavaScript Linting
 
+**THIS MODULE IS DEPRECATED** Please switch to semistandard or standard for linting.
+
 The baseline configuration for linting JavaScript files using [eslint](http://eslint.org/) is contained in this module. The explicitly specified settings in this file are mostly non-defaults values. In a few potentially controversial cases, a value matching the default has been explicitly specified so readers considering altering the value are aware that an explicit decision was made to use it.
 
 ## Usage
